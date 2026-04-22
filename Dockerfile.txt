@@ -1,3 +1,0 @@
-FROM jodogne/orthanc
-
-EXPOSE 8042
