@@ -1,3 +1,1 @@
-FROM jodogne/orthanc
-
-EXPOSE 8042
+FROM jodogne/orthanc:latest
